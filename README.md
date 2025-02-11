@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levis Nyagah</h1>
 <h3 align="center">A passionate Computer Science Student and developer from Nairobi Kenya</h3>
 
-- 🔭 I’m currently working on **E-Voting System**
+- 🔭 I’m currently working on **Python projects**
 
 - 🌱 I’m currently learning **Python , Ruby & java**
 

@@ -10,6 +10,8 @@
 - 💬 Ask me about **Android Studio & Django**
 
 - 📫 How to reach me **nyagahdev@gmail.com**
+  
+- BUY ME A COFFE ?? **buymeacoffee.com/nyagahdevd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

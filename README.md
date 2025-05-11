@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Python projects**
 
-- 🌱 I’m currently learning **Python , Ruby & java**
-
-- 👯 I’m looking to collaborate on **AI Related Projects**
+- 🌱 I’m currently learning **Python ,Solidity , Ruby & java**
+   
+- 👯 I’m looking to collaborate on **AI, Smart Contract & Web3 Related Projects**
 
 - 💬 Ask me about **Android Studio & Django**
 
-- 📫 How to reach me **nyagahdev@gmail.com**
+- 📫 How to reach me **umeskialevitech@proton.me**
   
 - BUY ME A COFFE ?? **buymeacoffee.com/nyagahdevd**
 
